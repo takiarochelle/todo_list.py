@@ -33,6 +33,8 @@ def display_main_menu(my_list):
 
     while True:
         # Collect input and include your if/elif/else statements here.
+        user_choice = raw_input(user_options)
+        
         break
 
 #-------------------------------------------------
